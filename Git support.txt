@@ -1,0 +1,25 @@
+Github Signup
+
+cerate username + Password, put your email adress in
+
+Verify account with captha
+
+(OPTIONAL) Set your area of expertise and experience in programming
+
+Verify your account via email
+
+
+Making a repo
+
+click make new repo
+
+set the name, set the initialiser (id reccomend a readme file for your first time) and create the repo
+
+you now have a repo.
+
+
+Adding to your repo
+
+you can do this in a number of ways. For now, the easiest is to select add files and drag and drop.
+
+another option is to use visual studio's inbuilt git functionality to keep it up to date on the go.
